@@ -1,0 +1,84 @@
+@import url('../node_modules/bootstrap/dist/css/bootstrap.min.css');
+
+
+html,body{
+  height:100%;
+}
+
+#root{
+  height:100%;
+}
+
+body{
+  background-color: #DDE7F9;
+}
+.bg-primary{
+  background-color:#131823 !important;
+  
+}
+
+.text-primary{
+  color:#131823 !important;
+  
+}
+
+/* .link{
+  text-decoration: none;
+
+} */
+
+/* 
+.link1{
+  text-decoration: none;
+  color: white;
+  
+} */
+
+.div .link{
+  text-decoration: none;
+  /* color: #131823; */
+  color:black;
+  font-weight:bolder;
+  background-color: white;
+  padding: 10px;
+  text-align: justify;
+  border: none !important;
+  outline: none !important;
+}
+
+.div1 .link{
+  text-decoration: none;
+  /* color: #131823; */
+  color:white;
+  font-weight:bolder;
+  background-color:#131823;
+  padding: 10px;
+  text-align: justify;
+  border: none;
+  outline: none;
+}
+
+.btn-primary{
+  background-color:#131823 !important;
+  border-color:#131823 !important;  
+}
+
+.button{
+  margin: 10px;
+  outline: none !important;
+  border: none !important;
+}
+
+
+
+
+/* .brd{
+  border: 1px solid black;
+} */
+
+
+
+
+
+
+

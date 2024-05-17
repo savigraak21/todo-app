@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": "c942",
+      "name": "savi",
+      "email": "savigraak@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "2cff",
+      "name": "pranshu",
+      "email": "pranshugraak@gmail.com",
+      "password": "abcd@efg"
+    },
+    {
+      "id": "786b",
+      "name": "vishu",
+      "email": "vishu@gmail.com",
+      "password": "123456"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "b391",
+      "title": "lunch ",
+      "description": "take lunch",
+      "duedate": "2024-04-11T13:34",
+      "userid": "c942",
+      "modifiedon": "Thu Apr 11 2024 09:30:36 GMT+0530 (India Standard Time)"
+    },
+    {
+      "id": "fb18",
+      "title": "excersise",
+      "description": "cycling ",
+      "duedate": "2024-04-13T09:44",
+      "userid": "c942",
+      "modifiedon": "Thu Apr 11 2024 09:44:25 GMT+0530 (India Standard Time)"
+    },
+    {
+      "id": "4cb8",
+      "title": "project",
+      "description": " college final year",
+      "duedate": "2024-04-26T09:53",
+      "userid": "c942",
+      "modifiedon": "Thu Apr 11 2024 09:53:54 GMT+0530 (India Standard Time)"
+    },
+    {
+      "id": "cc92",
+      "title": "study",
+      "description": "power bi",
+      "duedate": "2024-04-18T09:55",
+      "userid": "c942",
+      "modifiedon": "Thu Apr 11 2024 09:55:48 GMT+0530 (India Standard Time)"
+    },
+    {
+      "id": "dfc3",
+      "title": "Shopping",
+      "description": "grocery",
+      "duedate": "2024-04-12T09:56",
+      "userid": "c942",
+      "modifiedon": "Thu Apr 11 2024 09:56:48 GMT+0530 (India Standard Time)"
+    }
+  ]
+}
